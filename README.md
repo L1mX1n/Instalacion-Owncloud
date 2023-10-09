@@ -1,6 +1,6 @@
 # Instalacion-Owncloud
 ## Vagrant
-Para instalar Nextcloud tendremos que usar `Vagrant`, creamos un directorio con cualquier nombre. Toda la configuracion del proyecto se escrirá en el fichero `Vagrantfile`.
+Para instalar Owncloud tendremos que usar `Vagrant`, creamos un directorio con cualquier nombre. Toda la configuracion del proyecto se escrirá en el fichero `Vagrantfile`.
 ```console
 smx2b@turing-116:~$ mkdir Ejemplo
 smx2b@turing-116:~$ cd Ejemplo
